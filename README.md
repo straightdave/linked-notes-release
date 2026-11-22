@@ -2,6 +2,14 @@
 
 A fast, local-first, cross-platform spatial infinite canvas and distraction-free tabbed editor for taking atomic notes, linking ideas visually, and deriving smaller notes while learning.
 
+## Screenshots
+
+### Infinite Spatial Canvas
+![Infinite Spatial Canvas](screenshots/canvas.png)
+
+### Focus Editor (Split View)
+![Focus Editor](screenshots/editor.png)
+
 ## Download
 
 Get the latest desktop installer from the **[Releases page](https://github.com/straightdave/linked-notes-release/releases/latest)**:
