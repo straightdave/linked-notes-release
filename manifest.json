@@ -1,0 +1,16 @@
+{
+  "name": "Linked Notes",
+  "short_name": "LinkedNotes",
+  "description": "Local-first spatial infinite canvas for taking, linking, and deriving atomic notes.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
